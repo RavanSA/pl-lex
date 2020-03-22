@@ -33,5 +33,5 @@ Project 1 Lex Analysis
 
 
 •	Language Description
-      It’s name Plang(abbreviation for programming language.<program> starts and ends.Then,there is <stmt_list> it is equal to <stmt>.<stmt> contain conditons,comment,datatype and etc.BNF described above. 
+      It’s name Plang(abbreviation for programming language.<program> starts and ends.Then,there is <stmt_list> it is equal to <stmt>.<stmt> contain conditons,comment,datatype and etc.BNF described above. It's the programming language that user developer do only restricted opertion.Aim for programming languages is creating simple calculator.Writing different calculator programs depend on developers' code
     

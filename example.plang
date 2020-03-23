@@ -1,0 +1,23 @@
+void {
+integer = 765;
+float = 34.5;
+string a = "abcdef";
+char = 'a';
+}
+static void {
+//static modifier used to data and functions that doesn't require an instance of /class to be accessed//
+integer = 765;
+float = 34.5;
+string a = "abcdef";
+char = 'a';
+
+if(a*b=b*a)
+then a*=2;
+else if (a*b=a)
+then b=1;
+end if;
+
+do a*=4;
+while(a*b=b*a)
+}
+//PLang example
